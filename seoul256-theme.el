@@ -133,6 +133,13 @@
  '(outline-6 ((t (:foreground "#ffdd00"))))
  '(outline-7 ((t (:foreground "#bf2172"))))
  '(outline-8 ((t (:foreground "#FFBD98"))))
+ 
+ '(helm-source-header ((t (:foreground "#000000" :background "#e17899" ))))
+ '(helm-selection ((t (:background "#007173" :foreground "#d9d9d9"))))
+ '(helm-visible-mark ((t (:background "#007173" :foreground "#d9d9d9"))))
+
+ '(link ((t (:foreground  "#AE81FF" :underline t))))
+
 
  '(secondary-selection ((t (:background "#4b4b4b"))))
  '(show-paren-match-face ((t (:foreground "#000000" :background "#FD971F"))))
