@@ -1,9 +1,9 @@
-;;; seoul-theme.el --- Low-contrast dark emacs color scheme using Seoul colours
+;;; seoul256-theme.el --- Low-contrast dark emacs color scheme using Seoul colours
 
 ;; Copyright (C) 2015 by Chris Davison
 
 ;; Author: Chris Davison <c.jr.davison@gmail.com>
-;; URL: 
+;; URL: https://github.com/ChrisDavison/seoul256.el
 ;; Package-Version: 20150714.0
 ;; Version: 0.01
 ;; License: MIT
